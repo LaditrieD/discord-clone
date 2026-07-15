@@ -1,0 +1,6 @@
+{
+  "name": "Discord Benzeri Masaüstü Sohbet Uygulaması",
+  "description": "Discord'dan ilham alan, gerçek zamanlı sunucular, kanallar, mesajlaşma, roller, profil ayarları ve sesli kanal arayüzü içeren modern ve premium bilgisayar sohbet uygulaması.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
